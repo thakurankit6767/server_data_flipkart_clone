@@ -7,7 +7,6 @@
     "start": "node server.js",
     "build":"echo success"
   },
-  "author": "parag",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.3"
